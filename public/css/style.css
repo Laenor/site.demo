@@ -30,11 +30,6 @@ main {
 
 }
 
-#content-wrap {
-    overflow: auto;
-    padding-bottom: 5vh;
-}
-
 article{
     display: block;
     border: 1px solid #222222;
