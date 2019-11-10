@@ -6,7 +6,7 @@
 
 - Installez les dépendances **composer** grace à la commande `php composer.phar install`.
 
-- Dans le fichier **etc/hosts**, ajoutez `127.0.0.1 site.demo` pour faire la redirection.
+- Dans le fichier **hosts**, ajoutez `127.0.0.1 site.demo` pour faire la redirection.
 
 ## Test de l'application
 
